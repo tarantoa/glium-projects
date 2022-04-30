@@ -1,5 +1,3 @@
-use glium::vertex;
-
 #[macro_use] extern crate glium;
 
 #[derive(Copy, Clone)]
